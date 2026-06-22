@@ -118,6 +118,29 @@ All plots generated in the notebook are saved to the `images/` folder:
 Through this project, practical experience was gained in:
 
 * Data cleaning and preprocessing with Pandas
+
+## Machine Learning Models
+
+### Logistic Regression
+Accuracy: 81%
+
+### Random Forest Classifier
+Accuracy: 84%
+
+## Model Comparison
+
+| Model | Accuracy |
+|---------|---------|
+| Logistic Regression | 81% |
+| Random Forest | 84% |
+
+## Conclusion
+
+Random Forest achieved the highest performance with an accuracy of
+84% and better recall for heart disease patients.
+
+The model demonstrates the potential of machine learning techniques
+for supporting healthcare risk assessment and disease prediction.
 * Exploratory Data Analysis (EDA)
 * Data visualization with Matplotlib and Seaborn
 * Correlation analysis and heatmap interpretation
